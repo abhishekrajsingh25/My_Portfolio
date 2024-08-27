@@ -13,6 +13,12 @@ Welcome to my Portfolio! This repository showcases my work and projects, highlig
 
 <h2>How to use this Portfolio</h2>
 
-<li><b>Explore the Projects</b>: Navigate through the "Projects" section to see detailed descriptions, technologies used, and links to live demos or repositories.</li>
-<li>Check Out My Skills: Visit the "Skills" section to understand the range of tools and languages I'm proficient in.</li>
-<li>Contact Me: Feel free to reach out via the contact information provided below for collaboration, inquiries, or any other questions.</li>
+<li><b>Explore the Projects : </b>Navigate through the "Potfolio" section to see detailed descriptions, technologies used, and links to live demos or repositories.</li>
+<li><b>Check Out My Skills : </b>Visit the "Skills" section to understand the range of tools and languages I'm proficient in.</li>
+<li><b>Contact Me : </b>Feel free to reach out via the contact information provided above for collaboration, inquiries, or any other questions.</li>
+
+<h2>Contact Information</h2>
+
+<li><b>Email : </b>abhishekrajsingh2509@gmail.com</li>
+<li><b>Linkedin : </b><a href="https://www.linkedin.com/in/abhishek-raj-singh-731794239/" target="_blank" >Abhishek Raj Singh</a></li>
+<li><b>Contact Me : </b></li>
