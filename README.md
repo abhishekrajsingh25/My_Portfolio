@@ -2,7 +2,7 @@
 
 Welcome to my Portfolio! This repository showcases my work and projects, highlighting my skills, experience, and areas of expertise.
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 
 👋 Hi there! I'm Abhishek Raj Singh, a Aspiring Software Engineer with a passion for web development. I enjoy crafting responsive web designs, exploring new technologies.
 
