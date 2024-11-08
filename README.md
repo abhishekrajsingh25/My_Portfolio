@@ -24,4 +24,4 @@ Welcome to my Portfolio! This repository showcases my work and projects, highlig
 
 <h2></h2>
 
-Thank you for visiting my portfolio. I hope you find my work interesting and valuable! To show the Portfolio Website, Click <a href="https://abhishekrajsingh.netlify.app" >Here</a>.
+Thank you for visiting my portfolio. I hope you find my work interesting and valuable! To see the Portfolio Website, Click <a href="https://abhishekrajsingh.netlify.app" >Here</a>.
