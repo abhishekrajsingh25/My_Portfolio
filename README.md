@@ -13,7 +13,7 @@ Welcome to my Portfolio! This repository showcases my work and projects, highlig
 
 <h2>How to use this Portfolio</h2>
 
-<li><b>Explore the Projects : </b>Navigate through the "Potfolio" section to see detailed descriptions, technologies used, and links to live demos or repositories.</li>
+<li><b>Explore the Projects : </b>Navigate through the "Portfolio" section to see detailed descriptions, technologies used, and links to live demos or repositories.</li>
 <li><b>Check Out My Skills : </b>Visit the "Skills" section to understand the range of tools and languages I'm proficient in.</li>
 <li><b>Contact Me : </b>Feel free to reach out via the contact information provided above for collaboration, inquiries, or any other questions.</li>
 
